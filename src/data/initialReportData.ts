@@ -597,23 +597,23 @@ export const initialReportData = {
       period: "15 a 21 de Junho de 2026"
     },
     overview: {
-      ig: { engagement: "1,77%", tag: "+62,38%", isUp: true },
-      fb: { engagement: "0,79%", tag: "+9,26%", isUp: true },
-      tk: { engagement: "2,74%", tag: "-1,26%", isUp: false },
-      repost: { total: "761", tag: "+200,79%", isUp: true }
+      ig: { engagement: "2,83%", tag: "+59,88%", isUp: true },
+      fb: { engagement: "1,51%", tag: "+91,14%", isUp: true },
+      tk: { engagement: "3,54%", tag: "+29,20%", isUp: true },
+      repost: { total: "661", tag: "-13,14%", isUp: false }
     },
     metas: {
       mensal: {
-        ig_feed: { value: "1,23%", diff: "-0,32 P.P", isPositive: false },
-        ig_stories: { value: "2,42%", diff: "+0,37 P.P", isPositive: true },
-        fb: { value: "1,04%", diff: "-0,36 P.P", isPositive: false },
-        tk: { value: "3,02%", diff: "+0,54 P.P", isPositive: true }
+        ig_feed: { value: "1,15%", diff: "-0,42 P.P", isPositive: false },
+        ig_stories: { value: "3,42%", diff: "+1,37 P.P", isPositive: true },
+        fb: { value: "1,14%", diff: "-0,26 P.P", isPositive: false },
+        tk: { value: "3,08%", diff: "+0,58 P.P", isPositive: true }
       },
       anual: {
-        fb: { value: "1,25%", diff: "-0,50 P.P", isPositive: false },
-        ig_feed: { value: "1,34%", diff: "-0,76 P.P", isPositive: false },
-        ig_stories: { value: "5,02%", diff: "+0,48 P.P", isPositive: true },
-        tk: { value: "3,09%", diff: "+0,16 P.P", isPositive: true }
+        fb: { value: "1,27%", diff: "-0,48 P.P", isPositive: false },
+        ig_feed: { value: "1,33%", diff: "-0,78 P.P", isPositive: false },
+        ig_stories: { value: "5,22%", diff: "+0,68 P.P", isPositive: true },
+        tk: { value: "3,10%", diff: "+0,17 P.P", isPositive: true }
       }
     },
     followers: {
@@ -626,14 +626,14 @@ export const initialReportData = {
       insights: "Ofertas em vídeo com contagem regressiva blindam a entrega orgânica e geram retenção profunda.",
       opportunities: "Transformar interações em frentes de caixa com uso obrigatório de CTAs e links direcionais nos Stories.",
       stats: {
-        reach: "3.432.682",
-        eng: "1,77%",
+        reach: "2.484.109",
+        eng: "2,83%",
         newFollowers: "8.349",
-        reposts: "761"
+        reposts: "661"
       },
       mockups: [
-        { label: "Feed - ENG: 5,60%", imageUrl: "https://i.imgur.com/59US1XL.png" },
-        { label: "Stories - ENG: 12,02%", imageUrl: "https://i.imgur.com/qRkcYSt.png" }
+        { label: "Feed - ENG: 3,39%", imageUrl: "https://i.imgur.com/HCGl5KB.png" },
+        { label: "Stories - ENG: 6,12%", imageUrl: "https://i.imgur.com/uoSCcqV.png" }
       ]
     },
     facebookDetails: {
@@ -641,13 +641,13 @@ export const initialReportData = {
       insights: "Gatilhos de urgência funcionam bem no feed, tracionando organicamente o vídeo curto.",
       opportunities: "Escalar formatos audiovisuais com ofertas diretas para aproveitar o alto CTR do público maduro.",
       stats: {
-        reach: "170.802",
-        eng: "0,79%",
+        reach: "79.586",
+        eng: "1,51%",
         newFollowers: "447",
         shares: "320"
       },
       mockups: [
-        { label: "ENG: 1,02%", imageUrl: "https://i.imgur.com/XwQsimI.png" }
+        { label: "ENG: 3,63%", imageUrl: "https://i.imgur.com/UD5LNWh.png" }
       ]
     },
     tiktokDetails: {
@@ -655,13 +655,13 @@ export const initialReportData = {
       insights: "Rostos familiares e locais ancoram a maior probabilidade de alcance orgânico na plataforma.",
       opportunities: "Investir em vídeos focados em hacks educativos e dicas práticas de economia.",
       stats: {
-        reach: "826.134",
-        eng: "2,74%",
-        newFollowers: "1.492"  ,
+        reach: "278.116",
+        eng: "3,54%",
+        newFollowers: "1.599",
         shares: "640"
       },
       mockups: [
-        { label: "ENG: 4,37%", imageUrl: "https://i.imgur.com/6YMY4SP.png" }
+        { label: "ENG: 0,98%", imageUrl: "https://i.imgur.com/leTEspz.png" }
       ]
     },
     pillars: [
@@ -680,11 +680,11 @@ export const initialReportData = {
     ],
     projects: {
       subtitle: "Além do Assaí + iFood",
-      desc: "O uso de influenciadores de grande porte gera um volume bruto de visualizações, conteúdos orgânicos institucionais com colaboradores locais atingem a maior eficiência de engajamento garantindo retenção e conversão reais.\n\nEsse comportamento justifica a recuperação do Instagram Feed, que com a presença do Dudu Camargo, com o plantão transfere o conteúdo de forma mais autentica e natural, E uma presença mais ativa dos colaboradores. Então o ponto chave nessa semana foi novamente a humanização.",
+      desc: "Unir o poder de conversão de ofertas diretas com dinâmicas de gamificação e benefícios tangíveis para o usuário. É recomendável pois expandi de imediato a linha editorial de produtos colecionáveis e vantagens exclusivas, pois atrair forte engajamento, integrando essa temática em formatos de sucesso como Reels e vídeos curtos conduzidos pelos próprios colaboradores locais para manter a humanização ativa. Por fim, faz-se indispensável quebrar a rigidez do calendário de publicações, programando conteúdos de ofertas e facilidades para os horários que sucedem imediatamente os grandes eventos culturais e esportivos, transformando os picos sazonais de tráfego em downloads estáveis no aplicativo da marca.",
       mockups: [
-        "https://i.imgur.com/sF3a5eT.png",
-        "https://i.imgur.com/6YMY4SP.png",
-        "https://i.imgur.com/59US1XL.png"
+        "https://i.imgur.com/HCGl5KB.png",
+        "https://i.imgur.com/uoSCcqV.png",
+        "https://i.imgur.com/d0hVYMU.png"
       ]
     }
   }
